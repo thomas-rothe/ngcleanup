@@ -1,21 +1,21 @@
 # ngcleanup
-Cleanup Module
-Author: Thomas Rothe
+Cleanup Module<br>
+Author: Thomas Rothe<br>
 Mail: support@netz-giraffe.de
 
 **Important note:**
-This module requires:
-guest statistic module
-connection statistic module
+This module requires:<br>
+guest statistic module<br>
+connection statistic module<br>
 ps_facetedsearch
 
-**Use this module with Prestashop Cronjob** 
+**Use this module with Prestashop Cronjob**<br> 
 Install https://www.silbersaiten.de/de/administrationstools/365-prestashop-cronjobs-prestashop-modul.html
-setup your prestashop cron like you want.
+setup your prestashop cron like you want.<br>
 see screenshot in the module folder for more informations.
 
 ## clearTables
-This module truncate the prestashop tables
+This module truncate the prestashop tables<br>
 *guest*<br>
 *connections*<br>
 *connections_source*<br>
